@@ -1,0 +1,7 @@
+.main__container {
+    height: 500px;
+}
+.map__container {
+    height: 100%;
+    margin-top: 25px;
+}
